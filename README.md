@@ -1,6 +1,6 @@
-# React + Vite
+# React + Vite Task Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To open the project locally first you need to load the packages by using "yarn" or "npm install" after loading all package you can use start the development server by using "yarn start" or "npm start"
 
 Currently, two official plugins are available:
 
